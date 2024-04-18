@@ -4,6 +4,7 @@ public class payload {
 	
 	public static String AddPlace()
 	{
+		System.out.println("Git changes 1 after clone");
 		return "{\r\n"
 				+ "\"location\": {\r\n"
 				+ "\"lat\": -38.383494,\r\n"

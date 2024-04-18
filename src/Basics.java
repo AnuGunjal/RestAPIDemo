@@ -45,6 +45,8 @@ public class Basics {
 			
 			System.out.println(placeId);  // got the placeid
 			
+			System.out.println("Git changes 1 after clone");
+			System.out.println("Git changes 1 after clone- 1");
 			
 		// requirement to add a place and update it with new address --> then we have to use put place API
 		// Add place --> update place with New address --> Get place to validate if new address is present in response
